@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "6a9e7a46b4a26da8e2e30d63"
+  },
+  "bookId": 2,
+  "title": "The Pragmatic Programmer",
+  "author": "Andrew Hunt",
+  "genre": "Programming",
+  "rating": 4.9,
+  "pages": 352,
+  "tags": [
+    "classic",
+    "career",
+    "development"
+  ],
+  "publisher": {
+    "name": "Addison-Wesley",
+    "city": "Boston",
+    "year": 1999
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7a97b4a26da8e2e30d67"
+  },
+  "bookId": 4,
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "genre": "Fantasy",
+  "rating": 5,
+  "pages": 309,
+  "tags": [
+    "magic",
+    "bestseller",
+    "fiction"
+  ],
+  "publisher": {
+    "name": "Scholastic",
+    "city": "New York",
+    "year": 1997
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7aabb4a26da8e2e30d69"
+  },
+  "bookId": 5,
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "rating": 5,
+  "pages": 310,
+  "tags": [
+    "adventure",
+    "classic",
+    "fantasy"
+  ],
+  "publisher": {
+    "name": "George Allen & Unwin",
+    "city": "London",
+    "year": 1937
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7ac4b4a26da8e2e30d6b"
+  },
+  "bookId": 6,
+  "title": "1984",
+  "author": "George Orwell",
+  "genre": "Dystopian",
+  "rating": 4.6,
+  "pages": 328,
+  "tags": [
+    "classic",
+    "politics",
+    "fiction"
+  ],
+  "publisher": {
+    "name": "Secker & Warburg",
+    "city": "London",
+    "year": 1949
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7ad9b4a26da8e2e30d6d"
+  },
+  "bookId": 7,
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Classic",
+  "rating": 4.5,
+  "pages": 281,
+  "tags": [
+    "drama",
+    "classic",
+    "law"
+  ],
+  "publisher": {
+    "name": "J.B. Lippincott & Co.",
+    "city": "Philadelphia",
+    "year": 1960
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7af3b4a26da8e2e30d6f"
+  },
+  "bookId": 8,
+  "title": "Design Patterns",
+  "author": "Erich Gamma",
+  "genre": "Programming",
+  "rating": 4.5,
+  "pages": 395,
+  "tags": [
+    "software",
+    "architecture",
+    "OOP"
+  ],
+  "publisher": {
+    "name": "Addison-Wesley",
+    "city": "Boston",
+    "year": 1994
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7b06b4a26da8e2e30d71"
+  },
+  "bookId": 9,
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "genre": "Self-Help",
+  "rating": 4.9,
+  "pages": 320,
+  "tags": [
+    "psychology",
+    "productivity",
+    "bestseller"
+  ],
+  "publisher": {
+    "name": "Avery",
+    "city": "New York",
+    "year": 2018
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7b1eb4a26da8e2e30d73"
+  },
+  "bookId": 9,
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "genre": "Self-Help",
+  "rating": 4.9,
+  "pages": 320,
+  "tags": [
+    "psychology",
+    "productivity",
+    "bestseller"
+  ],
+  "publisher": {
+    "name": "Avery",
+    "city": "New York",
+    "year": 2018
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7b37b4a26da8e2e30d75"
+  },
+  "bookId": 10,
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "rating": 5,
+  "pages": 1178,
+  "tags": [
+    "epic",
+    "adventure",
+    "fantasy"
+  ],
+  "publisher": {
+    "name": "George Allen & Unwin",
+    "city": "London",
+    "year": 1954
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e7b72b4a26da8e2e30d77"
+  },
+  "bookId": 1,
+  "title": "Clean Code",
+  "author": "Robert Martin",
+  "genre": "Programming",
+  "rating": 4.95,
+  "pages": 464,
+  "tags": [
+    "bestseller",
+    "software",
+    "development",
+    "popular"
+  ],
+  "publisher": {
+    "name": "Prentice Hall",
+    "city": "Boston",
+    "year": 2008
+  }
+}]
